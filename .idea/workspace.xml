@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7f03fe0-05d7-4e7a-9cc5-ab0353cd2bae" name="Default Changelist" comment="2020/12/13 数据结构第一次提交">
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/Boy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/HeroNode2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/Josephu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/ArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/CircleArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/recursion/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/recursion/Queue8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/recursion/RecursionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/reversepolishcal/ReversePolishMultiCalc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/search/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/search/InsertValueSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/search/SeqSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sparsearray/SparseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sparsearray/sparsearray.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/ArrayStack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/ArrayStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/Caculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/PolandNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jj/hashtab/HashTabeleDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\develop\apache-maven-3.5.2\maven_repository" />
+        <option name="mavenHome" value="D:/Environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1kmMBT3eplJXEWLiZBenD0pzGY7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/jj/search" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_workspace_2019.3\DataStructures\src\com\jj\search" />
+      <recent name="D:\IDEA_workspace_2019.3\DataStructures\src\com\jj\recursion" />
+      <recent name="D:\IDEA_workspace_2019.3\DataStructures\src\com\jj\reversepolishcal" />
+      <recent name="D:\IDEA_workspace_2019.3\DataStructures\src\com\jj\linkedlist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HashTabeleDemo">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.search.BinarySearch" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTabeleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.hashtab.HashTabeleDemo" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.hashtab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertValueSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.search.InsertValueSearch" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.sort.RadixSort" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeqSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.search.SeqSearch" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashTabeleDemo" />
+        <item itemvalue="Application.InsertValueSearch" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.SeqSearch" />
+        <item itemvalue="Application.RadixSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7f03fe0-05d7-4e7a-9cc5-ab0353cd2bae" name="Default Changelist" comment="" />
+      <created>1606301177969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606301177969</updated>
+      <workItem from="1606301180446" duration="10666000" />
+      <workItem from="1606480527035" duration="61068000" />
+      <workItem from="1607940161521" duration="7180000" />
+      <workItem from="1608376392401" duration="27273000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020/12/13 数据结构第一次提交">
+      <created>1607850990168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607850990168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020/12/21 数据结构第二次提交">
+      <created>1608549479884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608549479884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020/12/13 数据结构第一次提交" />
+    <MESSAGE value="2020/12/21 数据结构第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/12/21 数据结构第二次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1608714858039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1608714858039" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1608723831885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608723831885" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1607825211107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607825211107" />
+    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1608549476513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608549476513" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1607850827552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607850827552" />
+    <state width="1323" height="347" key="GridCell.Tab.0.bottom" timestamp="1608725921132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608725921132" />
+    <state width="1323" height="347" key="GridCell.Tab.0.center" timestamp="1608725921132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608725921132" />
+    <state width="1323" height="347" key="GridCell.Tab.0.left" timestamp="1608725921132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608725921132" />
+    <state width="1323" height="347" key="GridCell.Tab.0.right" timestamp="1608725921132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608725921132" />
+    <state width="1323" height="284" key="GridCell.Tab.1.bottom" timestamp="1608380232918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="284" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608380232918" />
+    <state width="1323" height="284" key="GridCell.Tab.1.center" timestamp="1608380232917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="284" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608380232917" />
+    <state width="1323" height="284" key="GridCell.Tab.1.left" timestamp="1608380232917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="284" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608380232917" />
+    <state width="1323" height="284" key="GridCell.Tab.1.right" timestamp="1608380232918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="284" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608380232918" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1608714951290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608714951290" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608714757074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608714757074" />
+    <state x="68" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607829753535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="68" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1607829753535" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607850850990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607850850990" />
+    <state x="359" y="102" width="647" height="524" key="find.popup" timestamp="1606303120130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="102" width="647" height="524" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1606303120130" />
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1607825186251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1607825186251" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1606483464075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606483464075" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608721660965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608721660965" />
+  </component>
+</project>

@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7f03fe0-05d7-4e7a-9cc5-ab0353cd2bae" name="Default Changelist" comment="2020/12/13 数据结构第一次提交">
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/Boy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/HeroNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/HeroNode2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/Josephu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/SingleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/linkedlist/TestStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/ArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/ArrayQueueDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/CircleArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/queue/CircleArrayQueueDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/recursion/MiGong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/recursion/Queue8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/recursion/RecursionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/reversepolishcal/ReversePolishMultiCalc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/search/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/search/InsertValueSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/search/SeqSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/RadixSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sort/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sparsearray/SparseArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/sparsearray/sparsearray.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/ArrayStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/ArrayStack2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/ArrayStackDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/Caculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/Operation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/com/jj/stack/PolandNotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jj/hashtab/HashTabeleDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7f03fe0-05d7-4e7a-9cc5-ab0353cd2bae" name="Default Changelist" comment="2020/12/13 数据结构第一次提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +159,7 @@
       <workItem from="1606301180446" duration="10666000" />
       <workItem from="1606480527035" duration="61068000" />
       <workItem from="1607940161521" duration="7180000" />
-      <workItem from="1608376392401" duration="27273000" />
+      <workItem from="1608376392401" duration="29221000" />
     </task>
     <task id="LOCAL-00001" summary="2020/12/13 数据结构第一次提交">
       <created>1607850990168</created>
@@ -218,6 +180,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020/12/13 数据结构第一次提交" />
@@ -281,10 +254,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608714951290" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608714757074">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608726399100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608714757074" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608726399100" />
     <state x="68" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607829753535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
